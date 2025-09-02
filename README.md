@@ -1,5 +1,3 @@
-
-
 <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Airaf+Adil%20|%20Full-Stack+Developer&fontSize=45&animation=twinkling&fontAlignY=35" alt="header" />
@@ -10,27 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey👋,+I'm+Airaf+Adil!;aka+pizn-01;Full-Stack+Web+Developer;Crafting+Interactive+%26+Scalable+Apps;Always+Learning+New+Tech;🎮+Auto-Playing+Demos+Below!" alt="Typing animation"/>
 </h1>
 
-<!-- Auto-Playing Snake Game Animation -->
-<div align="center">
-  <h3>🐍 Auto-Playing Snake Game (Just for Fun!)</h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-</div>
-
-<!-- Matrix Rain Animation -->
-<div align="center">
-  <h3>⚡ The Matrix Code Rain</h3>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Matrix rain" width="60%"/>
-</div>
-
 <!-- Futuristic Tech Animation -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech animation" width="70%"/>
-</div>
-
-<!-- Auto-Playing Tetris-Style Animation -->
-<div align="center">
-  <h3>🎮 Auto-Playing Code Blocks (Tetris Style)</h3>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Code blocks falling" width="50%"/>
 </div>
 
 ---
@@ -50,6 +30,8 @@
 - 🌱 Exploring **AI integrations** and **cloud-native solutions**  
 - 🛠 Open to collaborations on exciting full-stack projects  
 - ⚡ Fun fact: I debug with music 🎧 and auto-playing games! 🎮
+- 🤫 Secret: My rubber duck is actually my debugging partner 🦆
+- 🎯 I can center a div... sometimes... on Tuesdays... maybe 😅
 
 ---
 
@@ -75,6 +57,18 @@
   <img src="https://img.shields.io/badge/UI-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+<!-- MEME SECTION - Absolutely Unhinged -->
+<div align="center">
+  <h2>🤡 Plot Twist: I'm Actually Three Cats in a Trench Coat</h2>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat typing" width="40%"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=700&lines=🐱+Meow+meow+(Translation%3A+My+code+works);😺+*Knocks+coffee+off+desk*+Oops...+pushed+to+prod;🙀+Spent+6+hours+debugging...+missing+semicolon;😹+Stack+Overflow%3A+My+second+home+after+the+litter+box;🐾+99+bugs+in+the+code...+take+one+down...+127+bugs" alt="Cat developer memes"/>
+</div>
+
+---
 
 <!-- Auto-Playing Skill Level Animation -->
 <div align="center">
@@ -108,6 +102,14 @@
 
 ---
 
+<!-- Auto-Playing Snake Game Animation -->
+<div align="center">
+  <h3>🐍 Playing Snake Game (Just for Fun!)</h3>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+</div>
+
+---
+
 ## 🚀 Highlight Projects  
 
 <!-- Auto-Playing Project Showcase -->
@@ -119,13 +121,23 @@
 _Interactive personal portfolio showcasing projects, skills & journey._  
 **Tech:** Next.js, TailwindCSS, Framer Motion, Vercel
 
-### 🔹 [⚡ Project 2 – Scalable Web App](https://github.com/pizn-01/project2)  
+### 🔹 [⚡ Project 2 – Scalable Web App](https://github.com/pizn-01/playmate-test)  
 _Full-stack application with real-time features._  
 **Tech:** React, Node.js, MongoDB, Socket.io
 
-### 🔹 [🤖 Project 3 – AI Workflow Tool](https://github.com/pizn-01/project3)  
+### 🔹 [🤖 Project 3 – AccountGuard_AI](https://github.com/sameerwire/AccountGuard-AI)  
 _AI-powered automation tool for developers._  
 **Tech:** TypeScript, Express, PostgreSQL, OpenAI API
+
+### 🔹 [🦆 Secret Project – Rubber Duck Debugger Pro](https://github.com/pizn-01/duck-debug)  
+_The world's first AI-powered rubber duck that actually talks back and judges your code._  
+**Tech:** Sarcasm.js, Disappointment API, CSS-that-actually-works
+
+<!-- Meme Project Status -->
+<div align="center">
+  <h3>📊 Current Project Status</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&lines=✅+Portfolio%3A+Deployed+%26+Looking+Fresh;🚧+Secret+Project%3A+Teaching+Ducks+to+Code;❌+Work-Life+Balance%3A+404+Not+Found;🔥+Motivation%3A+Powered+by+Coffee+%26+Memes;⏰+Sleep+Schedule%3A+What's+that%3F" alt="Project status memes"/>
+</div>
 
 👉 Explore more on my [GitHub Repositories](https://github.com/pizn-01?tab=repositories).  
 
@@ -141,7 +153,32 @@ _AI-powered automation tool for developers._
 - 🥇 **Full-Stack Development Certification**  
 - 🌐 Deployed **15+ production-ready apps** on Vercel  
 - 📜 Active contributor to **Open Source Projects**  
-- 🎯 **500+ commits** this year and counting!
+- 🎯 **50+ commits** this year and counting!
+
+---
+
+<!-- ABSOLUTELY CHAOTIC DEVELOPER MEME SECTION -->
+<div align="center">
+  <h2>🎭 The Absolutely Unhinged Developer Experience™</h2>
+  
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="This is fine dog" width="30%"/>
+  
+  <h3>🔥 My Coding Journey in Memes</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=16&duration=3000&pause=1500&color=FF4500&center=true&vCenter=true&repeat=true&width=800&lines=👶+Baby+Dev%3A+HTML+is+a+programming+language;🧒+Junior%3A+I+can+build+Facebook+in+a+weekend;🤓+Mid%3A+*Googles+%22how+to+center+a+div%22+for+500th+time*;😵+Senior%3A+I+have+no+idea+what+I'm+doing+but+it+works;🧙‍♂️+Wizard%3A+Deletes+semicolon...+entire+app+breaks;👻+Ghost%3A+Left+TODO+comments+from+2019" alt="Developer journey memes"/>
+
+  <h3>🎪 Current Vibe Check</h3>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Typing intensely" width="25%"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=700&lines=💻+Me%3A+*Writes+perfect+code*;🐛+Bug%3A+%22Allow+me+to+introduce+myself%22;☕+Coffee%3A+*Kicks+in*+%22I+AM+SPEED%22;🧠+Brain+at+3AM%3A+%22Let's+refactor+everything%22;🔥+Production%3A+%22Something's+wrong%2C+I+can+feel+it%22;📱+Phone%3A+*Slack+notification*+%22You're+in+danger%22" alt="Coding vibes"/>
+
+  <h3>🎯 Developer Achievements Unlocked</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2000&pause=1500&color=FFD700&center=true&vCenter=true&repeat=true&width=600&lines=🏆+Blamed+Git+for+Personal+Mistakes+x999;🥇+Spent+4+Hours+on+a+Typo+x1;🥈+Fixed+Prod+on+Friday+Evening+x∞;🥉+Said+%22It+works+on+my+machine%22+x42;⭐+Googled+Own+Stack+Overflow+Answer+x7;💎+Turned+Coffee+into+Code+Successfully" alt="Developer achievements"/>
+
+  <h3>🎪 The Deploy Process (Actual Footage)</h3>
+  <img src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" alt="Dog in burning house" width="30%"/>
+  
+  <p><strong>Me deploying on Friday:</strong> "What could go wrong?" 🤡</p>
+</div>
 
 ---
 
@@ -153,7 +190,7 @@ _AI-powered automation tool for developers._
 
 ---
 
-## 💻 Code in Action (Auto-Playing Demo)
+## 💻 Code in Action 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=58A6FF&multiline=true&center=true&vCenter=true&width=600&height=200&lines=//+Building+something+awesome...;const+buildApp+%3D+async+()+%3D%3E+%7B;++const+frontend+%3D+await+React();++const+backend+%3D+await+Node();++const+database+%3D+await+MongoDB();++return+✨+Amazing+App+✨;%7D%3B;buildApp().then(app+%3D%3E+deploy(app));" alt="Code demo"/>
@@ -195,6 +232,18 @@ _AI-powered automation tool for developers._
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=16&duration=1000&pause=0&color=00F7FF&center=true&vCenter=true&repeat=true&width=400&lines=⏰+Coding+Time%3A+Always+On!" alt="Clock"/>
 </div>
+
+<!-- BONUS MEME: Emergency Developer Kit -->
+<div align="center">
+  <h3>🚨 Emergency Developer Survival Kit</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=2500&pause=1500&color=FF0000&center=true&vCenter=true&repeat=true&width=600&lines=☕+Coffee%3A+Unlimited+Supply;🦆+Rubber+Duck%3A+For+Moral+Support;📚+Stack+Overflow%3A+Life+Saver;🍕+Pizza%3A+Debugging+Fuel;😴+Sleep%3A+Optional+Feature;🔥+Imposter+Syndrome%3A+Always+Active" alt="Developer survival kit"/>
+  
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Spongebob coding" width="25%"/>
+  
+  <p><em>"When you fix a bug without knowing how you fixed it"</em> 🤷‍♂️</p>
+</div>
+
+---
 
 <!-- Animated Footer -->
 <p align="center">
