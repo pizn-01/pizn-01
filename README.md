@@ -206,18 +206,21 @@ _The world's first AI-powered rubber duck that actually talks back and judges yo
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/airafadil/" target="_blank">
+  <a href="https://www.linkedin.com/in/m-airaf-adil-b12b33322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:airafadil.dev@gmail.com" target="_blank">
+  <a href="mailto:airafadil619@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://portfolio-airaf-web-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/airafadil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  <a href="https://twitter.com/pizn_01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://instagram.com/pizn_01" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+</a>
 </p>
 
 <!-- Auto-Playing Visitor Counter -->
