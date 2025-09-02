@@ -207,8 +207,8 @@ _The world's first AI-powered rubber duck that actually talks back and judges yo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-airaf-adil-b12b33322" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
   <a href="mailto:airafadil619@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
