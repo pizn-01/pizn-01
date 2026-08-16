@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%E2%80%A2+5%2B+years+shipping;Next.js+%7C+TypeScript+%7C+Node+%7C+SharePoint;I+build+things+that+work+in+production;...+and+then+I+break+them+at+2AM+on+purpose" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Lead+Full+Stack+Engineer+%E2%80%A2+6%2B+years+shipping;Next.js+%7C+TypeScript+%7C+Node+%7C+React+Native;Architecture+to+deployment%2C+end+to+end;I+build+things+that+work+in+production;...+and+then+I+break+them+at+2AM+on+purpose" alt="Typing animation"/>
 </h1>
 
 <p align="center">
@@ -24,13 +24,13 @@
 
 ## 👨‍💻 About
 
-Full-stack developer out of **Karachi, Pakistan**, five-plus years deep. I work the whole stack — React and Next.js on the front, Node and SQL on the back, SharePoint and Azure when the enterprise calls.
+**Lead Full Stack Engineer** out of **Karachi, Pakistan**, six-plus years deep. I work the whole stack — React and Next.js on the front, Node and SQL on the back — and these days I own projects end-to-end, from architecture through post-launch.
 
 What I actually care about: interfaces that feel expensive, backends that don't fall over, and shipping the thing instead of talking about shipping the thing.
 
 ```ts
 const airaf = {
-  role:      "Full-Stack Developer @ Logopidea",
+  role:      "Lead Full Stack Engineer @ Tech Cabin",
   stack:     ["Next.js", "TypeScript", "Node", "PostgreSQL", "Azure"],
   currently: "cloud architecture + 3D web experiences",
   openTo:    "freelance, contract, and genuinely weird ideas",
@@ -45,7 +45,7 @@ const airaf = {
 > The section most profiles don't have, and the only one anyone actually reads.
 
 - 🔨 **Building** — [Carmazium](https://carmazium.vercel.app/), a cinematic automotive marketplace on Next.js 15
-- 🏢 **Day job** — enterprise apps + custom SharePoint solutions at **Logopidea**
+- 🏢 **Day job** — leading web + mobile builds end-to-end at **Tech Cabin**
 - 🌱 **Learning** — cloud architecture, Three.js, and how to make a scroll animation that doesn't tank Lighthouse
 - 🤝 **Open to** — freelance and contract work; enterprise and scalable full-stack builds
 - 📬 **Reachable at** — [airafadil619@gmail.com](mailto:airafadil619@gmail.com)
@@ -56,23 +56,37 @@ const airaf = {
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Logopidea
-**Full-Stack Developer**
-`Jan 2025 – Present`
+### 🏢 Tech Cabin
+**Lead Full Stack Engineer** · Full-time
+`Nov 2024 – Present` · Pakistan · Hybrid
 
-Full-stack web and enterprise applications. Custom Microsoft SharePoint solutions built with the team.
+Leading end-to-end development of web and mobile solutions for clients across multiple industries. Own the full project lifecycle — architecture and UI/UX through deployment and post-launch support.
 
-`React` `Node.js` `SharePoint`
-`TypeScript` `Azure` `SQL Server`
+`Software Infrastructure` `Full-Stack`
+`Next.js` `React` `Node.js` `TypeScript`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Friends Technologies
-**Front-end / CMS Developer**
-`Apr 2022 – Dec 2024`
+### 🎨 LogoPidea
+**Full-Stack Developer** · Full-time
+`Jul 2023 – Oct 2024` · Karachi · On-site
+
+Full-stack web and enterprise applications, built alongside the design and delivery teams.
+
+`React` `Node.js` `TypeScript`
+`SQL Server` `Azure`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 Friends Technologies
+**Full-Stack Developer** · Part-time
+`Dec 2021 – Jul 2023` · Karachi · On-site
 
 User-centric sites and storefronts on the MERN stack and every CMS you can name, for growing businesses.
 
@@ -80,16 +94,16 @@ User-centric sites and storefronts on the MERN stack and every CMS you can name,
 `React` `MongoDB`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Bits & Digits
-**Web Developer**
-`Oct 2020 – Mar 2022`
+### 🧱 Bits and Digits
+**Frontend Web Developer** · Part-time
+`Oct 2019 – Oct 2021` · Karachi · Hybrid
 
-Visually sharp, interactive sites from the ground up. Where the fundamentals got beaten into me.
+Building and maintaining front-end websites, applying SEO best practices. Where the fundamentals got beaten into me.
 
 `HTML5` `CSS3` `JavaScript`
-`WordPress` `PHP`
+`WordPress` `UX` `SEO`
 
 </td>
 </tr>
