@@ -1,177 +1,321 @@
-<!-- Animated Header -->
+<!-- ══════════════════════════════════════════════════════════════
+     LAYER 1 — THE PART I SHOW RECRUITERS
+     ══════════════════════════════════════════════════════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=M.%20Airaf%20Adil%20|%20Full-Stack%20Developer&fontSize=45&animation=twinkling&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=M.%20Airaf%20Adil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Karachi%2C%20Pakistan&descAlignY=52&descSize=18" alt="header" />
 </p>
 
-<!-- Typing Intro Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey👋,+I'm+M.+Airaf+Adil!;aka+pizn-01;Full-Stack+Developer;Crafting+Innovative+Digital+Experiences;Specializing+in+Next.js+%26+Enterprise+Solutions;🎮+Auto-Playing+Demos+Below!" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%E2%80%A2+5%2B+years+shipping;Next.js+%7C+TypeScript+%7C+Node+%7C+SharePoint;I+build+things+that+work+in+production;...+and+then+I+break+them+at+2AM+on+purpose" alt="Typing animation"/>
 </h1>
 
-<!-- Futuristic Tech Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech animation" width="70%"/>
-</div>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~0159c66e59525f8826?s=1110580755107926016">
+    <img src="https://img.shields.io/badge/AVAILABLE_FOR_FREELANCE-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for freelance" />
+  </a>
+  <a href="mailto:airafadil619@gmail.com">
+    <img src="https://img.shields.io/badge/HIRE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pizn-01&style=for-the-badge&color=blueviolet&label=WITNESSES" alt="Profile views"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About
 
-🌟 **Full-Stack Developer** with a passion for crafting innovative digital experiences using cutting-edge technologies and creative problem-solving.  
-💡 I specialize in full-stack development, enterprise solutions, and user-centric design with pixel-perfect UI/UX.  
-🚀 My mission: build tech that not only works but **feels** extraordinary.  
+Full-stack developer out of **Karachi, Pakistan**, five-plus years deep. I work the whole stack — React and Next.js on the front, Node and SQL on the back, SharePoint and Azure when the enterprise calls.
 
-<!-- Auto-Playing Typing Code Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&multiline=true&width=600&height=150&lines=const+developer+%3D+%7B;++name%3A+'M.+Airaf+Adil',;++role%3A+'Full+Stack+Developer',;++location%3A+'Karachi,+Pakistan',;++status%3A+'Always+Coding!'+%F0%9F%9A%80;%7D%3B" alt="Auto-typing code"/>
-</div>
+What I actually care about: interfaces that feel expensive, backends that don't fall over, and shipping the thing instead of talking about shipping the thing.
 
-- 🔭 Currently working as a **Full-Stack Developer** at Logopidea  
-- 🌱 Exploring **Cloud Architecture**, **Advanced Next.js**, and **Creative 3D web experiences**  
-- 🛠 Open to collaborations on enterprise and scalable full-stack projects  
-- ⚡ Fun fact: I debug with music 🎧 and auto-playing games! 🎮
-- 🤫 Secret: My rubber duck is actually my debugging partner 🦆
+```ts
+const airaf = {
+  role:      "Full-Stack Developer @ Logopidea",
+  stack:     ["Next.js", "TypeScript", "Node", "PostgreSQL", "Azure"],
+  currently: "cloud architecture + 3D web experiences",
+  openTo:    "freelance, contract, and genuinely weird ideas",
+  status:    "shipping",
+};
+```
+
+---
+
+## 📌 Now — *August 2026*
+
+> The section most profiles don't have, and the only one anyone actually reads.
+
+- 🔨 **Building** — [Carmazium](https://carmazium.vercel.app/), a cinematic automotive marketplace on Next.js 15
+- 🏢 **Day job** — enterprise apps + custom SharePoint solutions at **Logopidea**
+- 🌱 **Learning** — cloud architecture, Three.js, and how to make a scroll animation that doesn't tank Lighthouse
+- 🤝 **Open to** — freelance and contract work; enterprise and scalable full-stack builds
+- 📬 **Reachable at** — [airafadil619@gmail.com](mailto:airafadil619@gmail.com)
 
 ---
 
 ## 💼 Experience
 
-### **Logopidea** | Full-Stack Developer
-*January 2025 – Present*
-Developing full-stack web and enterprise applications. Collaborating with teams to develop customized Microsoft SharePoint solutions.
-*(React, Node.js, SharePoint, TypeScript, Azure, SQL Server)*
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### **Friends Technologies** | Front-end/CMS Developer
-*April 2022 – December 2024*
-Developed user-centric sites and stores using MERN stack and various CMS platforms for growing businesses.
-*(MERN Stack, WordPress, Shopify, React, MongoDB)*
+### Logopidea
+**Full-Stack Developer**
+`Jan 2025 – Present`
 
-### **Bits & Digits** | Web Developer
-*October 2020 – March 2022*
-Developed visually appealing, user-interactive sites using HTML, CSS, JavaScript framework, and CMS platforms. 
-*(HTML5, CSS3, JavaScript, WordPress, PHP)*
+Full-stack web and enterprise applications. Custom Microsoft SharePoint solutions built with the team.
+
+`React` `Node.js` `SharePoint`
+`TypeScript` `Azure` `SQL Server`
+
+</td>
+<td width="33%" valign="top">
+
+### Friends Technologies
+**Front-end / CMS Developer**
+`Apr 2022 – Dec 2024`
+
+User-centric sites and storefronts on the MERN stack and every CMS you can name, for growing businesses.
+
+`MERN` `WordPress` `Shopify`
+`React` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+### Bits & Digits
+**Web Developer**
+`Oct 2020 – Mar 2022`
+
+Visually sharp, interactive sites from the ground up. Where the fundamentals got beaten into me.
+
+`HTML5` `CSS3` `JavaScript`
+`WordPress` `PHP`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-
-<!-- Animated Tech Stack with Moving Icons -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=2000&pause=500&color=F7931E&center=true&vCenter=true&repeat=true&width=800&lines=🚀+Languages%3A+JS+%7C+TS+%7C+Python+%7C+PHP+%7C+SQL;⚡+Frameworks%3A+React+%7C+Next.js+%7C+Node.js+%7C+Express;🗄️+Databases%3A+MongoDB+%7C+PostgreSQL+%7C+MySQL;☁️+Tools%3A+Git+%7C+Docker+%7C+GCP+%7C+Vercel;🎨+Specialties%3A+Full-Stack+%7C+UX/UI+%7C+E-commerce" alt="Tech Stack Animation"/>
-</div>
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,threejs&theme=dark" alt="Frontend stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,python,php,docker,git&theme=dark" alt="Backend stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,vercel,figma,wordpress,supabase&theme=dark" alt="Tools" />
+</p>
+
+<p align="center">
+  <sub><b>Languages</b> TypeScript · JavaScript · Python · PHP · SQL &nbsp;•&nbsp; <b>Frameworks</b> Next.js · React · Node · Express &nbsp;•&nbsp; <b>Data</b> PostgreSQL · MongoDB · MySQL &nbsp;•&nbsp; <b>Cloud</b> Azure · GCP · Vercel · Docker</sub>
 </p>
 
 ---
 
-<!-- MEME SECTION - Absolutely Unhinged -->
-<div align="center">
-  <h2>🤡 Plot Twist: I'm Actually Three Cats in a Trench Coat</h2>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat typing" width="40%"/>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=18&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=700&lines=🐱+Meow+meow+(Translation%3A+My+code+works);😺+*Knocks+coffee+off+desk*+Oops...+pushed+to+prod;🙀+Spent+6+hours+debugging...+missing+semicolon;😹+Stack+Overflow%3A+My+second+home+after+the+litter+box;🐾+99+bugs+in+the+code...+take+one+down...+127+bugs" alt="Cat developer memes"/>
-</div>
+## 🚀 Selected Work
 
----
+### Live in production
 
-## 📊 GitHub Stats  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Auto-Playing Stats Counter -->
-<div align="center">
-  <h3>📈 Live GitHub Metrics</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=18&duration=3000&pause=1500&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&lines=⚡+Commits+This+Year%3A+500%2B;🔥+Current+Streak%3A+25+Days;🌟+Projects+Completed%3A+30%2B;☕+Coffee+Consumed%3A+∞" alt="GitHub metrics"/>
-</div>
+**🏎️ [Carmazium](https://carmazium.vercel.app/)**
+A premium, cinematic automotive marketplace — closing the gap between digital convenience and physical showroom luxury.
+`Next.js 15` `Tailwind` `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+**🎬 [Nadia Khan Official](https://nadiakhanofficial.com/)**
+Celebrity portfolio and brand site with a full CMS, media gallery, and fan engagement.
+`Next.js` `React` `Strapi` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛋️ [Davis Interior](https://davisinterior.com/)**
+Luxury interior design studio — 3D visualization, project portfolio, client management.
+`Next.js` `Three.js` `MongoDB` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 [The Original Creator](https://www.theoriginalcreator.com/)**
+Creative agency platform with portfolio showcase and client collaboration tooling.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+### On GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pizn-01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pizn-01&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/pizn-01/carmazium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pizn-01&repo=carmazium&theme=react&hide_border=true&bg_color=0d1117&icon_color=00f7ff" alt="carmazium" />
+  </a>
+  <a href="https://github.com/pizn-01/IELTS_GRADER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pizn-01&repo=IELTS_GRADER&theme=react&hide_border=true&bg_color=0d1117&icon_color=00f7ff" alt="IELTS_GRADER" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/pizn-01/dinely">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pizn-01&repo=dinely&theme=react&hide_border=true&bg_color=0d1117&icon_color=00f7ff" alt="dinely" />
+  </a>
+  <a href="https://github.com/pizn-01/finaccsolutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pizn-01&repo=finaccsolutions&theme=react&hide_border=true&bg_color=0d1117&icon_color=00f7ff" alt="finaccsolutions" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/pizn-01/ThreatV">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pizn-01&repo=ThreatV&theme=react&hide_border=true&bg_color=0d1117&icon_color=00f7ff" alt="ThreatV" />
+  </a>
+  <a href="https://github.com/pizn-01/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pizn-01&repo=Portfolio&theme=react&hide_border=true&bg_color=0d1117&icon_color=00f7ff" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pizn-01&theme=react-dark&hide_border=true&bg_color=0d1117&line=00f7ff&point=8A2BE2" width="95%" alt="Contribution Graph"/>
+  <a href="https://github.com/pizn-01?tab=repositories"><b>→ All repositories</b></a>
 </p>
 
-<!-- Auto-Playing Language Stats -->
+---
+
+## 📊 The Numbers (real ones, I promise)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pizn-01&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&icon_color=00f7ff&title_color=00f7ff" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=pizn-01&theme=react&hide_border=true&background=0d1117&ring=00f7ff&fire=8A2BE2" height="165" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizn-01&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00f7ff&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pizn-01&theme=react-dark&hide_border=true&bg_color=0d1117&line=00f7ff&point=8A2BE2&area=true" width="95%" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pizn-01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizn-01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/pizn-01/pizn-01/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+  <br/><sub>a snake, eating my year, one commit at a time</sub>
+</div>
+
+---
+---
+
+<!-- ══════════════════════════════════════════════════════════════
+     LAYER 2 — SCROLL AT YOUR OWN RISK
+     everything above this line is HR-safe. nothing below it is.
+     ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+# ⚠️ &nbsp; PROFESSIONAL SECTION ENDS HERE &nbsp; ⚠️
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=800&color=FF3C3C&center=true&vCenter=true&width=800&lines=You+have+seen+the+resume.+You+may+leave+now.;Still+here%3F+Okay.+Unbuckle+something.;HR+has+been+notified+of+your+scroll+depth.;git+checkout+--+my_composure" alt="Warning"/>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="This is fine" width="32%"/>
+
+</div>
+
+<br/>
+
+## 🐈‍⬛ Disclosure: I Am Three Cats in a Trench Coat
+
+The trench coat is Next.js. The cats are `useEffect`, `useState`, and a dependency array we do not speak about.
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=900&color=FF69B4&center=true&vCenter=true&width=780&lines=Meow.+(Translation%3A+it+works+on+my+machine.);*knocks+coffee+off+desk*+...+that+was+prod.;Six+hours+debugging.+It+was+a+trailing+comma.;99+bugs+in+the+code.+Take+one+down.+127+bugs.;Stack+Overflow+is+my+litter+box+and+I+am+not+ashamed." alt="Cat dev"/>
 </div>
 
 ---
 
-<!-- Auto-Playing Snake Game Animation -->
+## 📈 The Five Stages of Developer
+
 <div align="center">
-  <h3>🐍 Playing Snake Game (Just for Fun!)</h3>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+<table>
+<tr><td align="center"><h3>👶</h3><b>Day 1</b><br/><sub>"HTML is a<br/>programming language"</sub></td>
+<td align="center"><h3>🧒</h3><b>Junior</b><br/><sub>"I could rebuild<br/>Facebook this weekend"</sub></td>
+<td align="center"><h3>🤓</h3><b>Mid</b><br/><sub>Googles "center a div"<br/>for the 500th time</sub></td>
+<td align="center"><h3>😵</h3><b>Senior</b><br/><sub>"No idea why it works.<br/>Do not touch it."</sub></td>
+<td align="center"><h3>🧙</h3><b>Wizard</b><br/><sub>Removes one semicolon.<br/>Company folds.</sub></td></tr>
+</table>
 </div>
 
 ---
 
-## 🚀 Highlighted Projects  
+## 🏆 Certifications (Self-Issued, Non-Transferable)
 
-<!-- Auto-Playing Project Showcase -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=true&width=700&lines=🌐+Enterprise+Scale+Apps;⚡+Next.js+%2B+Tailwind+%2B+3D+Experiences;🤖+Full-Stack+Web+Platforms;🚀+Deployed+%26+Production+Ready" alt="Project showcase"/>
-</div>
-
-### 🔹 [Carmazium](https://carmazium.vercel.app/)  
-_A premium, cinematic-first automotive marketplace bridging the gap between digital convenience and physical showroom luxury._  
-**Tech:** Next.js 15, Tailwind CSS, Framer Motion, Lucide React
-
-### 🔹 [Nadia Khan Official](https://nadiakhanofficial.com/)  
-_Celebrity portfolio and brand website with content management, media gallery, and fan engagement features._  
-**Tech:** Next.js, React, Strapi, PostgreSQL
-
-### 🔹 [Davis Interior](https://davisinterior.com/)  
-_Luxury interior design studio with 3D visualization, project portfolio, and client management system._  
-**Tech:** Next.js, Three.js, MongoDB, Tailwind CSS
-
-### 🔹 [The Original Creator](https://www.theoriginalcreator.com/)  
-_Creative agency platform with portfolio showcase, client collaboration tools, and project management system._  
-**Tech:** Next.js, TypeScript, Prisma, PostgreSQL
-
-<!-- Meme Project Status -->
-<div align="center">
-  <h3>📊 Current Project Status</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=600&lines=✅+Latest+Gigs%3A+Deployed+%26+Looking+Fresh;🚧+Secret+Project%3A+Teaching+Ducks+to+Code;❌+Work-Life+Balance%3A+404+Not+Found;🔥+Motivation%3A+Powered+by+Coffee+%26+Memes;⏰+Sleep+Schedule%3A+What's+that%3F" alt="Project status memes"/>
-</div>
-
-👉 Explore more of my basic, intermediate, and advanced projects on my [GitHub Repositories](https://github.com/pizn-01?tab=repositories).  
+<p align="center">
+  <img src="https://img.shields.io/badge/Certified-Div_Centerer-00F7FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PhD-Stack_Overflow_Archaeology-8A2BE2?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Licensed-Rubber_Duck_Handler-FFD700?style=for-the-badge&logo=duckduckgo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Survivor-Merge_Conflict_%2312--47-FF3C3C?style=for-the-badge&logo=git&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/it_works-on_my_machine-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tests-passing_locally_only-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/work--life_balance-404_not_found-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sleep_schedule-deprecated-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TODO_comments-since_2019-inactive?style=for-the-badge" />
+</p>
 
 ---
 
-<!-- ABSOLUTELY CHAOTIC DEVELOPER MEME SECTION -->
-<div align="center">
-  <h2>🎭 The Absolutely Unhinged Developer Experience™</h2>
-  
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="This is fine dog" width="30%"/>
-  
-  <h3>🔥 My Coding Journey in Memes</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=16&duration=3000&pause=1500&color=FF4500&center=true&vCenter=true&repeat=true&width=800&lines=👶+Baby+Dev%3A+HTML+is+a+programming+language;🧒+Junior%3A+I+can+build+Facebook+in+a+weekend;🤓+Mid%3A+*Googles+%22how+to+center+a+div%22+for+500th+time*;😵+Senior%3A+I+have+no+idea+what+I'm+doing+but+it+works;🧙‍♂️+Wizard%3A+Deletes+semicolon...+entire+app+breaks;👻+Ghost%3A+Left+TODO+comments+from+2019" alt="Developer journey memes"/>
+## 🎰 System Status
 
-  <h3>🎪 Current Vibe Check</h3>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Typing intensely" width="25%"/>
-</div>
+```console
+$ airaf --status --verbose
+
+[  OK  ] Caffeine subsystem ......................... SATURATED
+[  OK  ] Dark mode ................................... ENFORCED
+[  OK  ] Deployed on Friday .......................... yes. again.
+[ WARN ] Open browser tabs ........................... 247
+[ WARN ] Branches named "final", "final2", "FINAL_v3" . 6
+[ WARN ] Console.log statements in production ........ classified
+[ FAIL ] Sleep schedule .............................. unit not found
+[ FAIL ] Work-life balance ........................... 404
+[ INFO ] Rubber duck ................................. senior engineer
+[ INFO ] Semicolons .................................. optional. spiritually.
+
+exit code 0  (it did not succeed. it just gave up gracefully.)
+```
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 💀 Bug Bounty Program
 
-<!-- Animated Contact Section -->
+Find a bug in any of my public repos and I will:
+
+1. Deny it
+2. Reproduce it
+3. Sit quietly for a moment
+4. Fix it and commit `fix: minor edge case` like nothing happened
+5. Buy you chai if you're in Karachi
+
+*Payout pool: one (1) chai. Not cumulative. Terms negotiable, mostly by me.*
+
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=📧+Open+for+Collaborations!;🚀+Let's+Build+Something+Amazing;💬+Always+Happy+to+Connect;🌟+Your+Next+Developer+Partner" alt="Contact animation"/>
+  <h3>🎪 Current Vibe</h3>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Typing intensely" width="26%"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Currently+teaching+a+duck+to+code.+It's+ahead+of+me.;My+git+history+is+a+cry+for+help+in+chronological+order.;I+don't+have+imposter+syndrome.+I+have+imposter+certainty.;The+code+is+self-documenting.+The+documentation+is+not." alt="Vibe check"/>
 </div>
+
+---
+---
+
+## 🤝 Let's Build Something
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-airaf-adil-b12b33322" target="_blank">
@@ -187,34 +331,17 @@ _Creative agency platform with portfolio showcase, client collaboration tools, a
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://twitter.com/pizn_01" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/pizn_01" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
-<!-- Auto-Playing Visitor Counter -->
-<div align="center">
-  <h3>👥 Profile Visitors</h3>
-  <img src="https://komarev.com/ghpvc/?username=pizn-01&style=for-the-badge&color=blueviolet&animated=true" alt="Visitor counter"/>
-</div>
-
----
-
-<!-- Real-Time Clock -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=16&duration=1000&pause=0&color=00F7FF&center=true&vCenter=true&repeat=true&width=400&lines=⏰+Coding+Time%3A+Always+On!" alt="Clock"/>
-</div>
-
----
-
-<!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+Visiting!+🚀&fontSize=30&animation=fadeIn" alt="footer" />
+  <sub>Fastest response: email. Slowest: LinkedIn, where I go to feel professional twice a year.</sub>
 </p>
 
-<div align="center">
-  <h3>🎯 Fun Fact: This README Updates Itself!</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=true&width=500&lines=Every+time+you+refresh+this+page...;The+animations+restart+automatically!;It's+like+a+mini+portfolio+demo+🎮;Welcome+to+my+GitHub+playground!" alt="Fun fact"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=you+scrolled+all+the+way+down.+respect.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=68" alt="footer" />
+</p>
